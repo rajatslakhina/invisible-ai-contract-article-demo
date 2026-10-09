@@ -1,6 +1,6 @@
 # InvisibleAI: a failure-mode contract for AI features nobody calls "AI"
 
-Article: (added after publish)
+Article: [Your Best AI Feature Has No Chat Box. That's Why Nobody Sees It Fail.](https://medium.com/@er.rajatlakhina/your-best-ai-feature-has-no-chat-box-thats-why-nobody-sees-it-fail-8d7e1a907581) (Medium)
 
 An AI-enhanced feature with no chat box is harder to ship than a chat tab. When a chat answer is wrong, the user sees it. When a preselected category or an auto-filed receipt is wrong, nobody does. This package makes each AI-enhanced feature declare what happens when the model is **unavailable, slow or wrong** before it ships, and then checks that declaration in code.
 
